@@ -664,28 +664,31 @@
     ]
   },
   "packageFolders": {
-    "/Users/pedrodemirandaarthur/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\Shakkollc\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/pedrodemirandaarthur/Documents/Trabalho/ComputerVisionAPI/ComputerVisionAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Shakkollc\\Desktop\\Pedro\\pedro\\site\\ComputerVisionAPI\\ComputerVisionAPI.csproj",
       "projectName": "ComputerVisionAPI",
-      "projectPath": "/Users/pedrodemirandaarthur/Documents/Trabalho/ComputerVisionAPI/ComputerVisionAPI.csproj",
-      "packagesPath": "/Users/pedrodemirandaarthur/.nuget/packages/",
-      "outputPath": "/Users/pedrodemirandaarthur/Documents/Trabalho/ComputerVisionAPI/obj/",
+      "projectPath": "C:\\Users\\Shakkollc\\Desktop\\Pedro\\pedro\\site\\ComputerVisionAPI\\ComputerVisionAPI.csproj",
+      "packagesPath": "C:\\Users\\Shakkollc\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Shakkollc\\Desktop\\Pedro\\pedro\\site\\ComputerVisionAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/pedrodemirandaarthur/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Shakkollc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://nuget.syncfusion.com/aspnetmvc": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -704,7 +707,7 @@
         "dependencies": {
           "Microsoft.NETCore.App": {
             "target": "Package",
-            "version": "[2.0.0, )",
+            "version": "2.0",
             "autoReferenced": true
           }
         },

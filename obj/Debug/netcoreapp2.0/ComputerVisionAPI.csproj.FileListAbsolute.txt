@@ -8,3 +8,13 @@
 /Users/pedrodemirandaarthur/Documents/Trabalho/ComputerVisionAPI/obj/Debug/netcoreapp2.0/ComputerVisionAPI.AssemblyInfo.cs
 /Users/pedrodemirandaarthur/Documents/Trabalho/ComputerVisionAPI/obj/Debug/netcoreapp2.0/ComputerVisionAPI.dll
 /Users/pedrodemirandaarthur/Documents/Trabalho/ComputerVisionAPI/obj/Debug/netcoreapp2.0/ComputerVisionAPI.pdb
+C:\Users\Shakkollc\Desktop\Pedro\pedro\site\ComputerVisionAPI\bin\Debug\netcoreapp2.0\ComputerVisionAPI.deps.json
+C:\Users\Shakkollc\Desktop\Pedro\pedro\site\ComputerVisionAPI\bin\Debug\netcoreapp2.0\ComputerVisionAPI.runtimeconfig.json
+C:\Users\Shakkollc\Desktop\Pedro\pedro\site\ComputerVisionAPI\bin\Debug\netcoreapp2.0\ComputerVisionAPI.runtimeconfig.dev.json
+C:\Users\Shakkollc\Desktop\Pedro\pedro\site\ComputerVisionAPI\bin\Debug\netcoreapp2.0\ComputerVisionAPI.dll
+C:\Users\Shakkollc\Desktop\Pedro\pedro\site\ComputerVisionAPI\bin\Debug\netcoreapp2.0\ComputerVisionAPI.pdb
+C:\Users\Shakkollc\Desktop\Pedro\pedro\site\ComputerVisionAPI\obj\Debug\netcoreapp2.0\ComputerVisionAPI.csproj.CoreCompileInputs.cache
+C:\Users\Shakkollc\Desktop\Pedro\pedro\site\ComputerVisionAPI\obj\Debug\netcoreapp2.0\ComputerVisionAPI.AssemblyInfoInputs.cache
+C:\Users\Shakkollc\Desktop\Pedro\pedro\site\ComputerVisionAPI\obj\Debug\netcoreapp2.0\ComputerVisionAPI.AssemblyInfo.cs
+C:\Users\Shakkollc\Desktop\Pedro\pedro\site\ComputerVisionAPI\obj\Debug\netcoreapp2.0\ComputerVisionAPI.dll
+C:\Users\Shakkollc\Desktop\Pedro\pedro\site\ComputerVisionAPI\obj\Debug\netcoreapp2.0\ComputerVisionAPI.pdb

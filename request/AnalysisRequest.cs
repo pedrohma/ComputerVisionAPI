@@ -12,12 +12,12 @@ namespace ComputerVisionAPI
     public class AnalysisRequest
     {
         // **********************************************
-        const string uriBase = "https://westcentralus.api.cognitive.microsoft.com/vision/v1.0/models/landmarks/analyze";
+        const string uriBase = "https://westcentralus.api.cognitive.microsoft.com/vision/v1.0/analyze";
 
         /// <summary>
-        /// Gets a thumbnail image from the specified image file by using the Computer Vision REST API.
+        /// Gets the analysis of the specified image file by using the Computer Vision REST API.
         /// </summary>
-        /// <param name="imageFilePath">The image file to use to create the thumbnail image.</param>
+        /// <param name="imageFilePath">The image file.</param>
         public static async void MakeAnalysisRequest(string imageFilePath)
         {
             HttpClient client = new HttpClient();
@@ -25,8 +25,8 @@ namespace ComputerVisionAPI
             // Request headers.
             client.DefaultRequestHeaders.Add("Ocp-Apim-Subscription-Key", APIKeys.getKey());
 
-            // Request parameters. Change "landmarks" to "celebrities" here and in uriBase to use the Celebrities model.
-            string requestParameters = "model=landmarks";
+            // Request parameters. A third optional parameter is "details".
+            string requestParameters = "visualFeatures=Categories,Description,Color,ImageType,Tags,Adult,Faces&language=en";
 
             // Assemble the URI for the REST API Call.
             string uri = uriBase + "?" + requestParameters;
