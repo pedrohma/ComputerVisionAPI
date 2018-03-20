@@ -1,0 +1,10 @@
+/Users/pedrodemirandaarthur/Documents/Trabalho/ComputerVisionAPI/bin/Debug/netcoreapp2.0/ComputerVisionAPI.deps.json
+/Users/pedrodemirandaarthur/Documents/Trabalho/ComputerVisionAPI/bin/Debug/netcoreapp2.0/ComputerVisionAPI.runtimeconfig.json
+/Users/pedrodemirandaarthur/Documents/Trabalho/ComputerVisionAPI/bin/Debug/netcoreapp2.0/ComputerVisionAPI.runtimeconfig.dev.json
+/Users/pedrodemirandaarthur/Documents/Trabalho/ComputerVisionAPI/bin/Debug/netcoreapp2.0/ComputerVisionAPI.dll
+/Users/pedrodemirandaarthur/Documents/Trabalho/ComputerVisionAPI/bin/Debug/netcoreapp2.0/ComputerVisionAPI.pdb
+/Users/pedrodemirandaarthur/Documents/Trabalho/ComputerVisionAPI/obj/Debug/netcoreapp2.0/ComputerVisionAPI.csproj.CoreCompileInputs.cache
+/Users/pedrodemirandaarthur/Documents/Trabalho/ComputerVisionAPI/obj/Debug/netcoreapp2.0/ComputerVisionAPI.AssemblyInfoInputs.cache
+/Users/pedrodemirandaarthur/Documents/Trabalho/ComputerVisionAPI/obj/Debug/netcoreapp2.0/ComputerVisionAPI.AssemblyInfo.cs
+/Users/pedrodemirandaarthur/Documents/Trabalho/ComputerVisionAPI/obj/Debug/netcoreapp2.0/ComputerVisionAPI.dll
+/Users/pedrodemirandaarthur/Documents/Trabalho/ComputerVisionAPI/obj/Debug/netcoreapp2.0/ComputerVisionAPI.pdb
