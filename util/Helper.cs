@@ -21,6 +21,9 @@ namespace ComputerVisionAPI
                     {
                         throw new Exception(String.Format("Parameter {0} not valid.", inp));
                     }
+                    if(inp.Contains(" ")){
+                        inp.Replace(" ", "");
+                    }
                 }
             }
         }
