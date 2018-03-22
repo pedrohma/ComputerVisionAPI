@@ -18,7 +18,8 @@ namespace ComputerVisionAPI
         /// Gets the analysis of the specified image file by using the Computer Vision REST API.
         /// </summary>
         /// <param name="imageFilePath">The image file.</param>
-        public static async void MakeAnalysisRequest(string imageFilePath)
+        /// <param name="parameters">The output parameters.</param>
+        public static async void MakeAnalysisRequest(string imageFilePath, string parameters)
         {
             HttpClient client = new HttpClient();
 
@@ -26,7 +27,7 @@ namespace ComputerVisionAPI
             client.DefaultRequestHeaders.Add("Ocp-Apim-Subscription-Key", APIKeys.getKey());
 
             // Request parameters. A third optional parameter is "details".
-            string requestParameters = "visualFeatures=Categories,Description,Color,ImageType,Tags,Adult,Faces&language=en";
+            string requestParameters = "visualFeatures=" + parameters + "&language=en";
 
             // Assemble the URI for the REST API Call.
             string uri = uriBase + "?" + requestParameters;
